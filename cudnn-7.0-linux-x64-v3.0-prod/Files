@@ -1,0 +1,14 @@
+Filename: cuda/lib64/libcudnn.so
+MD5sum: f5ebbde6664a525b99a8d7cc7f9d473f
+
+Filename: cuda/lib64/libcudnn.so.7.0
+MD5sum: f5ebbde6664a525b99a8d7cc7f9d473f
+
+Filename: cuda/lib64/libcudnn.so.7.0.64
+MD5sum: f5ebbde6664a525b99a8d7cc7f9d473f
+
+Filename: cuda/lib64/libcudnn_static.a
+MD5sum: 04fa35b75671e6886cb9a72ac04a6229
+
+Filename: cuda/include/cudnn.h
+MD5sum: cb69fabcbefc5b43f2ad2ec2b74dfcb7
